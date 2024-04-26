@@ -6,7 +6,7 @@ AUTOMATED PNEUMONIA DETECTION FROM CHEST X-RAY IMAGES
 
 In today's healthcare system, medical image analysis is essential for the diagnosis, management, and surveillance of a wide range of medical disorders. With an emphasis on the identification of pneumonia from chest X-ray pictures, our study aims to apply deep learning techniques—more particularly, Convolutional Neural Networks (CNNs)—to specific medical image analysis tasks.
 
-**code Implementation**
+**Code Implementation**
 * Data preprocessing and exploration.
 * Construction of CNN models using Keras with TensorFlow backend.
 * Model training and evaluation on training and test datasets.
